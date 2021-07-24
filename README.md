@@ -10,4 +10,4 @@
 
 Note that the data and the model is accessible through this link:
 
-[Estonian ULMFIT](https://drive.google.com/file/d/1yWUixE3SpALPtaJjeHdCDIg5bAkhGbz0/view?usp=sharing)
+[Estonian ULMFIT Models](https://drive.google.com/file/d/1yWUixE3SpALPtaJjeHdCDIg5bAkhGbz0/view?usp=sharing)
