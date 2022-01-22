@@ -4,7 +4,7 @@
 
 **You can check this blog post for getting information about Pretraining and fine tunning:**
 
-- **[Estonian ULMFIT](https://saied71.github.io/RohanAiLab/2021/07/23/ULMFIT_ET.html)**
+- **[Estonian ULMFIT](https://saied71.github.io/RohanAiLab/2021/09/03/ULMFIT-ET.html)**
 
 `train_ET.py` is the training script and `Estonian_ULMFIT.` notebook is demonstrating the finetuning.
 
